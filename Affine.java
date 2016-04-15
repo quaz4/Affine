@@ -61,11 +61,11 @@ public class Affine
 				System.out.println("Decrypt");
 
 				//Read in a
-				System.out.print("Enter a value: ");
+				System.out.print("Enter value of a: ");
 				a = in.nextInt();
 
 				//Read in b
-				System.out.print("Enter b value: ");
+				System.out.print("Enter value of b: ");
 				b = in.nextInt();
 
 				//If key is valid continues
